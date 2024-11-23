@@ -25,7 +25,7 @@
     "@tsconfig/next": "^2.0.0",
     "@tsconfig/node18": "^18.2.0",
     "@tsconfig/strictest": "^2.0.1",
-    "@types/node": "^18",
+    "@types/node": "^18.19.65",
     "@types/react": "18.2.0",
     "autoprefixer": "^10.4.7",
     "dotenv-cli": "^6.0.0",
